@@ -1,0 +1,16 @@
+{
+"companyName": "Karson Chow",
+"productName": "BENV2001 Assignment 1B z5293384",
+"productVersion": "0.1",
+"dataUrl": "Mobile Build.data.unityweb",
+"wasmCodeUrl": "Mobile Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Mobile Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
